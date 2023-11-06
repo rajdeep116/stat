@@ -5,7 +5,7 @@
     "website": "someURL",
     "UpdateIntervalEmbed": "30s",
     "UpdateIntervalAPIChecking": "30s",
-    "guildid": "yourServerID",
+    "guildid": "986914635984797726",
     "maintenancemode": {
         "colour": "#FFA500",
         "description": "SomeDescription",
